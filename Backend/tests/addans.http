@@ -1,0 +1,8 @@
+PUT http://localhost:4000/app/addans
+Content-Type: application/json
+
+{
+    "id":"61af52ab4635f9de1ebf84fc",
+    "answerer":"good guy1",
+    "answer":"karma is the answer"
+}

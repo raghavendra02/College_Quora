@@ -1,0 +1,8 @@
+POST http://localhost:4000/app/questions
+Content-Type: application/json
+
+{
+    "question":"Which is the best club for singing in RR campus?",
+    "asker":"fname2",
+    "answers":["answer2"]
+}
